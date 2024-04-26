@@ -1,0 +1,16 @@
+Apartment
+House
+Duplex
+Triplex
+Quadplex
+Condo
+Timeshare
+Castle
+Boat
+RV
+Car
+Tent
+Cabin
+Box
+Truck
+
